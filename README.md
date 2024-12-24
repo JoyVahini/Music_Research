@@ -1,2 +1,2 @@
-# MSc_Research_Improvements
+# Improvements
 Detection of Carnatic Raga in Music Clips using Deep Learning 
